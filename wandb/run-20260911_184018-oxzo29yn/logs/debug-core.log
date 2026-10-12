@@ -1,0 +1,22 @@
+{"time":"2026-09-11T18:40:19.4317911+03:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\mwafy\\AppData\\Local\\Temp\\tmp2g57ik5d\\port-9928.txt","pid":9928,"detached":false,"idle-timeout":600000000000,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2026-09-11T18:40:19.4362335+03:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":9928}
+{"time":"2026-09-11T18:40:19.4362335+03:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"C:\\Users\\mwafy\\AppData\\Local\\Temp\\wandb-9928-20264-1015620024\\socket","Net":"unix"}}
+{"time":"2026-09-11T18:40:19.4362335+03:00","level":"INFO","msg":"server: accepting connections","addr":{"IP":"127.0.0.1","Port":53681,"Zone":""}}
+{"time":"2026-09-11T18:40:21.6616174+03:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(127.0.0.1:53689)"}
+{"time":"2026-09-11T18:40:21.8594558+03:00","level":"INFO","msg":"handleInformInit: received","streamId":"oxzo29yn","id":"1(127.0.0.1:53689)"}
+{"time":"2026-09-11T18:40:22.4428441+03:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"oxzo29yn","id":"1(127.0.0.1:53689)"}
+{"time":"2026-09-11T18:40:22.969964+03:00","level":"INFO","msg":"connection: cancelling request","id":"1(127.0.0.1:53689)","requestId":"n0o8b1ye3k6e"}
+{"time":"2026-09-11T18:40:29.5872823+03:00","level":"INFO","msg":"connection: cancelling request","id":"1(127.0.0.1:53689)","requestId":"d7fqn0hp5z8s"}
+{"time":"2026-09-11T18:45:15.7342071+03:00","level":"INFO","msg":"connection: cancelling request","id":"1(127.0.0.1:53689)","requestId":"d7fqn0hp5z8s"}
+{"time":"2026-09-11T18:45:26.7231184+03:00","level":"INFO","msg":"connection: cancelling request","id":"1(127.0.0.1:53689)","requestId":"d7fqn0hp5z8s"}
+{"time":"2026-09-11T18:45:26.7318093+03:00","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"oxzo29yn","id":"1(127.0.0.1:53689)"}
+{"time":"2026-09-11T18:45:26.7345044+03:00","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"oxzo29yn","id":"1(127.0.0.1:53689)"}
+{"time":"2026-09-11T18:45:26.7418332+03:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"1(127.0.0.1:53689)"}
+{"time":"2026-09-11T18:45:26.7418578+03:00","level":"INFO","msg":"connection: closing","id":"1(127.0.0.1:53689)"}
+{"time":"2026-09-11T18:45:26.7418578+03:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"1(127.0.0.1:53689)"}
+{"time":"2026-09-11T18:45:26.7418578+03:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2026-09-11T18:45:26.7418578+03:00","level":"INFO","msg":"connection: closed successfully","id":"1(127.0.0.1:53689)"}
+{"time":"2026-09-11T18:45:26.7418578+03:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"1(127.0.0.1:53689)"}
+{"time":"2026-09-11T18:45:26.7424325+03:00","level":"INFO","msg":"server: listener closed","addr":{"Name":"C:\\Users\\mwafy\\AppData\\Local\\Temp\\wandb-9928-20264-1015620024\\socket","Net":"unix"}}
+{"time":"2026-09-11T18:45:26.7424325+03:00","level":"INFO","msg":"server: listener closed","addr":{"IP":"127.0.0.1","Port":53681,"Zone":""}}
+{"time":"2026-09-11T18:45:26.7424325+03:00","level":"INFO","msg":"server is closed"}

@@ -1,0 +1,9 @@
+{"time":"2026-09-11T18:32:57.5821559+03:00","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\mwafy\\AppData\\Local\\Temp\\tmpnm44p9lc\\port-29604.txt","pid":29604,"detached":false,"idle-timeout":600000000000,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2026-09-11T18:32:57.5891852+03:00","level":"INFO","msg":"server: will exit if parent process dies","ppid":29604}
+{"time":"2026-09-11T18:32:57.5897046+03:00","level":"INFO","msg":"server: accepting connections","addr":{"Name":"C:\\Users\\mwafy\\AppData\\Local\\Temp\\wandb-29604-17448-2079590536\\socket","Net":"unix"}}
+{"time":"2026-09-11T18:32:57.5897046+03:00","level":"INFO","msg":"server: accepting connections","addr":{"IP":"127.0.0.1","Port":52805,"Zone":""}}
+{"time":"2026-09-11T18:32:59.7477508+03:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(127.0.0.1:52810)"}
+{"time":"2026-09-11T18:33:00.0008947+03:00","level":"INFO","msg":"handleInformInit: received","streamId":"c3v3a9z7","id":"1(127.0.0.1:52810)"}
+{"time":"2026-09-11T18:33:00.6414805+03:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"c3v3a9z7","id":"1(127.0.0.1:52810)"}
+{"time":"2026-09-11T18:33:08.2452704+03:00","level":"INFO","msg":"connection: cancelling request","id":"1(127.0.0.1:52810)","requestId":"igjvfp60dn0h"}
+{"time":"2026-09-11T18:35:48.133995+03:00","level":"INFO","msg":"server: parent process exited, terminating service process"}

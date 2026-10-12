@@ -1,0 +1,8 @@
+{
+    "architecture": "VariationalAutoencoder_MNIST_E10_B128",
+    "batch_size": 128,
+    "epochs": 10,
+    "learning_rate": 0.001,
+    "final_test_loss": 10480.84797146954,
+    "training_time_seconds": 291.11
+}

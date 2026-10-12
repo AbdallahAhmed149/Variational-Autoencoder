@@ -1,0 +1,36 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.10.7",
+  "startedAt": "2026-09-11T15:32:56.576532Z",
+  "program": "d:\\Variational Autoencoder\\main.py",
+  "codePath": "main.py",
+  "codePathLocal": "main.py",
+  "email": "abdallah.ab1492006@gmail.com",
+  "root": "D:\\Variational Autoencoder",
+  "host": "AbdallahAhmed",
+  "executable": "C:\\Users\\mwafy\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "Quadro M1000M",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "126539001856",
+      "used": "52523069440"
+    }
+  },
+  "memory": {
+    "total": "21278117888"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Quadro M1000M",
+      "memoryTotal": "2147483648",
+      "cudaCores": 512,
+      "architecture": "Maxwell",
+      "uuid": "GPU-357f45d7-5fe3-563b-2cbf-9f5099bd9422"
+    }
+  ],
+  "cudaVersion": "13.0",
+  "writerId": "fai5sikln9195ghm9amzu89caxk8i8hy"
+}
